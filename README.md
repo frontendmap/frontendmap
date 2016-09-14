@@ -4,9 +4,9 @@
 
 ![](https://camo.githubusercontent.com/296599ca34161a124b0253c24d41d621cb0bb3ef/687474703a2f2f696d61676573323031352e636e626c6f67732e636f6d2f626c6f672f3133383031322f3230313630392f3133383031322d32303136303931343132333834353734322d3630373231333137302e706e67)
 
-并不同于目前网络上的若干前端知识体系（例如[这个](https://segmentfault.com/a/1190000004070468)和[这个](https://my.oschina.net/hxwny/blog/499513)），FrontEndMap 考虑了 web 前端开发涉及到的所有过程，包括**源码环境 -> 构建过程 -> 服务器环境/node -> http -> 浏览器/webview**，其中会涉及到一些国际标准和规范，包括`ECMS262`、`W3C`、`http`、`nodejs API`等，其中还会在过程中介绍常用的工具，例如`React`、`angular`、`vue`、`webpack`、`jquery`等等。
+如上图，FrontEndMap 会从前端开发经过的 **源码环境 -> 构建过程 -> 服务器环境/node -> http -> 浏览器/webview** 过程入手，对每个步骤做详细拆解，总结出其中用到的标准（如`W3C`）、规范（如`nodejs API`）、工具（如`webpack React`）等，做到尽量全面。
 
-FrontEndMap 希望能通过开源的力量，维护一个国内最权威的 web 前端知识体系指南，**欢迎大家 star、fork 并 PR** ，也欢迎大家[提交 issue](https://github.com/frontendmap/frontendmap/issues)。
+当然，FrontEndMap 希望能通过开源的力量，逐步完善成国内权威的 web 前端基础知识体系指南，**欢迎大家 star、fork 并 PR** ，也欢迎大家[提交 issue](https://github.com/frontendmap/frontendmap/issues)。
 
 # 开发环境
 
@@ -64,6 +64,8 @@ FrontEndMap 希望能通过开源的力量，维护一个国内最权威的 web 
 
 - [渲染与性能优化](./browser/render.md)
 
+- [安全](./browser/security.md)
+
 - [开发者工具 & 调试](./browser/dev-tool.md)
 
 - [ECMA262 标准](./browser/ecma.md)
@@ -74,15 +76,10 @@ W3C 标准中规定了日常开发中使用最多的 html、css、DOM API 等语
 
 - [html](./browser/w3c/html.md)
 - [css](./browser/w3c/css.md)
-- [WEB-API](./browser/w3c/web-api.md)
+- [javascript WEB-API](./browser/w3c/js-web-api.md)
 - [2D/3D](./browser/w3c/2d-3d.md)
 
 # 其他
 
-其他内容
-
-
-
-
-
+[其他内容](./other/other.md)，其他一些不错的文章。这些只是不好明确归类，不代表文章质量不高。
 
