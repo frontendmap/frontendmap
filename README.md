@@ -35,26 +35,56 @@ FrontEndMap 希望能通过开源的力量，维护一个国内最权威的 web 
 
 ## 构建
 
-包括测试、lint、打包等，介绍常用工具
+相比几年之前“蛮荒时代”的前端开发，构架工具的产生是的前端开发这几年飞速进化和发展。现在所有的前端项目代码，都会使用构建工具搭建前端代码框架。
 
 - [模板引擎，如jade](./source-env/build/tpl.md)
 - [语法糖，如less、sass](./source-env/build/sugar.md)
 - [自动化测试、单元测试](./source-env/build/test.md)
 - [lint 语法检查](./source-env/build/lint.md)
-- [打包](./source-env/build/pack.md)
+- [打包，webpack gulp等](./source-env/build/pack.md)
 
-## 服务器
+## 服务器/测试机
 
-linux命令，vim，nodejs
+将代码上传到服务器（互联网项目普遍使用 linux 服务器，windows 系统此处忽略）上，要学会常用的 linux 命令，还要掌握 vim 编辑器来高效率的编辑文档。如果是 nodejs 项目，还要了解 nodejs 的相关知识。
+
+- [linux 命令](./server/linux-command.md)
+- [vim](./server/vim.md)
+- [nodejs](./server/nodejs.md)
 
 ## 网络
 
-http 性能优化
+服务器和客户端的交互基于 http 协议，会用到 socket ajax 等技术，以及一些常见的性能优化
 
-## 浏览器 & webview
+- [http](./net/http.md)
+- [socket](./net/socket.md)
+- [ajax/fetch](./net/ajax-fetch.md)
+- [性能优化](./net/performance.md)
 
-渲染与性能
+## 浏览器 / webview
 
-ECMS262
+代码加载到浏览器之后，浏览器需要解释、执行代码并绘制成最终的页面，其中可能会涉及性能优化。在这个渲染过程中，浏览器是要遵守 ECMA262 和 W3C 标准来执行的，因此要了解这两个标准的主要内容。如果页面有问题，还需要使用开发者工具或其他工具来调试程序。
 
-W3C
+- [渲染与性能优化](./browser/render.md)
+
+- [开发者工具 & 调试](./browser/dev-tool.md)
+
+- [ECMA262 标准](./browser/ecma.md)
+
+### W3C 标准
+
+W3C 标准中规定了日常开发中使用最多的 html、css、DOM API 等语法和规范。W3C 内容非常多，还有一提案状态未发布的内容，因此只需要掌握其重点内容即可。
+
+- [html](./browser/w3c/html.md)
+- [css](./browser/w3c/css.md)
+- [WEB-API](./browser/w3c/web-api.md)
+- [2D/3D](./browser/w3c/2d-3d.md)
+
+# 其他
+
+其他内容
+
+
+
+
+
+
