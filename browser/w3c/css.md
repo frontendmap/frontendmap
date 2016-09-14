@@ -14,6 +14,8 @@
 ## 框架 & 库
 
 - 两个css3动画插件 [CSShake](http://elrumordelaluz.github.io/csshake/#1) 和 [Animate.css](http://daneden.github.io/animate.css/)
+- bootstrap
+- fontawesome
 
 ## 文章
 

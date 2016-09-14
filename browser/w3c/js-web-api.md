@@ -17,6 +17,7 @@
 
 - jquery
 - zepto
+- iScroll
 
 ## 文章
 
