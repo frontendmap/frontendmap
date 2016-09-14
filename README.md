@@ -16,12 +16,16 @@ FrontEndMap 希望能通过开源的力量，维护一个国内最权威的 web 
 
 ### 物理结构
 
-物理结构
+一个系统的源代码是由若干个文件夹、若干个文件组成的一个物理结构，其中的代码作为一个一个的物理文件该如何归置？还有代码版本管理和第三方插件的依赖管理该如何处理？这都属于代码的物理结构。
 
-#### 逻辑设计
+- [版本管理 git](./source-env/source/physics/git.md)
+- 第三方依赖管理 npm
+- javascript 模块化：AMD CMD commonJS ES6规范
+- css module
 
-物理结构
+### 逻辑设计
 
+sdfgsdfgsgsf
 
 ## 构建
 
