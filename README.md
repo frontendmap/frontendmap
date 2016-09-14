@@ -1,8 +1,8 @@
 # FrontEndMap
 
-**web 前端知识体系，系统、优质、开源**
+### web 前端知识体系，系统、优质、开源
 
-FrontEndMap 希望能通过开源的力量，维护一个国内最权威的 web 前端知识体系指南，欢迎大家 star、fork 并 PR ，也欢迎大家[提交 issue](https://github.com/frontendmap/frontendmap/issues)。
+FrontEndMap 希望能通过开源的力量，维护一个国内最权威的 web 前端知识体系指南，**欢迎大家 star、fork 并 PR** ，也欢迎大家[提交 issue](https://github.com/frontendmap/frontendmap/issues)。
 
 并不同于目前网络上的若干前端知识体系（例如[这个](https://segmentfault.com/a/1190000004070468)和[这个](https://my.oschina.net/hxwny/blog/499513)），FrontEndMap 考虑了 web 前端开发涉及到的所有过程，包括**`源码环境 -> 构建过程 -> 服务器环境/node -> http -> 浏览器/webview`**，其中会设计到一些国际标准和规范，包括`ECMS262`、`W3C`、`http`、`nodejs API`等，其中还会在过程中介绍常用的工具，例如`React`、`angular`、`vue`、`webpack`、`jquery`等等。如下图：
 
@@ -19,13 +19,21 @@ FrontEndMap 希望能通过开源的力量，维护一个国内最权威的 web 
 一个系统的源代码是由若干个文件夹、若干个文件组成的一个物理结构，其中的代码作为一个一个的物理文件该如何归置？还有代码版本管理和第三方插件的依赖管理该如何处理？这都属于代码的物理结构。
 
 - [版本管理 git](./source-env/source/physics/git.md)
-- 第三方依赖管理 npm
-- javascript 模块化：AMD CMD commonJS ES6规范
-- css module
+- [第三方依赖管理 npm](./source-env/source/physics/npm.md)
+- [javascript 模块化：AMD CMD commonJS ES6规范](./source-env/source/physics/js-module.md)
+- [css module](./source-env/source/physics/css-module.md)
+- [模板引擎，如jade](./source-env/source/physics/tpl.md)
+- [语法糖，如less、sass](./source-env/source/physics/sugar.md)
 
 ### 逻辑设计
 
-sdfgsdfgsgsf
+系统的设计是一种逻辑的、抽象的结构，和任何一个物理文件都没有关系，因此这单独区分处理。例如，“模块化”和“组件化”两个看似难以区分，其实前者是物理的，后者是逻辑的。
+
+- [基本功，算法、数据结构等](./source-env/source/logic/basic.md)
+- [设计模式](./source-env/source/logic/design-pattern.md)
+- MVVM [Vue.js](./source-env/source/logic/vue.md) [Angular](./source-env/source/logic/angular.md)
+- 组件化 [React](./source-env/source/logic/reactjs.md)
+
 
 ## 构建
 
