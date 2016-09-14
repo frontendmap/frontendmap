@@ -22,8 +22,6 @@ FrontEndMap 希望能通过开源的力量，维护一个国内最权威的 web 
 - [第三方依赖管理 npm](./source-env/source/physics/npm.md)
 - [javascript 模块化：AMD CMD commonJS ES6规范](./source-env/source/physics/js-module.md)
 - [css module](./source-env/source/physics/css-module.md)
-- [模板引擎，如jade](./source-env/source/physics/tpl.md)
-- [语法糖，如less、sass](./source-env/source/physics/sugar.md)
 
 ### 逻辑设计
 
@@ -38,6 +36,12 @@ FrontEndMap 希望能通过开源的力量，维护一个国内最权威的 web 
 ## 构建
 
 包括测试、lint、打包等，介绍常用工具
+
+- [模板引擎，如jade](./source-env/build/tpl.md)
+- [语法糖，如less、sass](./source-env/build/sugar.md)
+- [自动化测试、单元测试](./source-env/build/test.md)
+- [lint 语法检查](./source-env/build/lint.md)
+- [打包](./source-env/build/pack.md)
 
 ## 服务器
 
