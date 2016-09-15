@@ -1,5 +1,9 @@
 # FrontEndMap - 打包
 
+## 视频
+
+- [用grunt搭建自动化的web前端开发环境](http://study.163.com/course/courseMain.htm?courseId=1103003)
+
 ## 框架 & 库
 
 - webpack

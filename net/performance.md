@@ -1,5 +1,9 @@
 # FrontEndMap - performance
 
+## 视频
+
+- [yahoo军规](http://www.imooc.com/learn/50)
+
 ## 文章
 
 - [说说浏览器端缓存的那点事儿-扑朔迷离的 etag 与 last-modified](https://github.com/rccoder/blog/issues/12)

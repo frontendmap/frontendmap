@@ -63,7 +63,6 @@
 浏览器下载到代码之后会渲染页面，还会遵守 W3C ECMA 的标准
 
 - **[hybrid](./browser/hybrid.md)** app 中实现 web 开发的常用方案
-
 - [渲染与性能优化](./browser/render.md)
 - [安全](./browser/security.md)
 - [开发者工具 & 调试](./browser/dev-tool.md)
