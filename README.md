@@ -62,12 +62,11 @@
 
 浏览器下载到代码之后会渲染页面，还会遵守 W3C ECMA 的标准
 
+- **[hybrid](./browser/hybrid.md)** app 中实现 web 开发的常用方案
+
 - [渲染与性能优化](./browser/render.md)
-
 - [安全](./browser/security.md)
-
 - [开发者工具 & 调试](./browser/dev-tool.md)
-
 - [ECMA262 标准](./browser/ecma.md)
 
 ### W3C 标准
@@ -81,5 +80,9 @@ W3C 标准中规定了日常开发中使用最多的 html、css、DOM API 等语
 
 # 其他
 
-[其他内容](./other/other.md)，其他一些不错的文章。这些只是不好明确归类，不代表文章质量不高。
+- [流程规范](./other/flow-standard.md)
+- [源码阅读](./other/source-read.md)
+- [拓展视野](./other/expand-view.md)
+
+
 

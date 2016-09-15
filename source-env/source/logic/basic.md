@@ -2,7 +2,9 @@
 
 ## 书籍 & 文档
 
+- 《计模式--可复用面向对象软件的基础》
 - [松本行弘的程序世界](http://item.jd.com/10828928.html)
+- [javascript设计模式](http://item.jd.com/11253887.html)
 
 ## 文章
 

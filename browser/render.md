@@ -17,3 +17,4 @@
 - [在移动浏览器中使用viewport元标签控制布局](https://developer.mozilla.org/zh-CN/docs/Mobile/Viewport_meta_tag)
 - [移动适配和切图方案](http://js8.in/slide/flexible.htm)
 - [说说浏览器端缓存的那点事儿-扑朔迷离的 etag 与 last-modified](https://github.com/rccoder/blog/issues/12)
+- [前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
